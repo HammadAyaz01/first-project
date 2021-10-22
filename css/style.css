@@ -1,0 +1,44 @@
+        body {
+        font-family: 'Roboto', sans-serif;
+    }
+    
+    .box {
+        border: 2px;
+        padding: 20px;
+        width: 318px;
+        height: 252px;
+        background-color: #fefcda;
+    }
+    
+    h3 {
+        color: #a09e91;
+        font-size: 12px;
+        font-weight: 900;
+        text-transform: uppercase;
+        margin-top: 5px;
+        margin-bottom: 5px;
+    }
+    
+    .fa-stack-overflow {
+        color: #a09e91;
+        margin: 10px
+    }
+    
+    p {
+        color: #8282e2;
+        font-weight: 500;
+        display: flex;
+        margin-top: 15px;
+        margin-bottom: -18px;
+    }
+    
+    .h5 {
+        font-weight: bold;
+        color: #a09e91;
+        margin-top: 29px;
+        margin-bottom: 4px;
+    }
+    
+    span {
+        margin: 4%;
+        color: #a09e91;
